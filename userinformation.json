@@ -43,5 +43,14 @@
       "location": "Gaibandha",
       "img": "https://bootdey.com/img/Content/avatar/avatar7.png",
       "charge": 500
+    },
+    {
+      "id": 6,
+      "name": "Nabil",
+      "contact": "017552424341",
+      "email": "nabil@gmail.com",
+      "location": "Gaibandha",
+      "img": "https://bootdey.com/img/Content/avatar/avatar7.png",
+      "charge": 600
     }
   ]
